@@ -1,5 +1,5 @@
 ### Hi I'm Shang  👋
-待補充
+
 <!--
 **ShangRuey/ShangRuey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
